@@ -18,15 +18,15 @@ E-commerece website built by using HTML,CSS,JavaScript,Bootstrap,PHP,MySql.
 
 <img alt="sc5" src="sc/sc5.JPG"></img>
 
-<h3>My cart<h3>
+<h3>My cart</h3>
 
 <img alt="sc7" src="sc/sc7.JPG"></img>
 
-<h3>View of Admin Panel and Database<h3>
+<h3>View of Admin Panel and Database</h3>
 
 <img alt="sc6" src="sc/sc6.JPG"></img>
 
-<h1>How to run on your local machine<h1>
+<h1>How to run on your local machine</h1>
 
 1. Clone repository using git clone
 2. Install xampp/wamp or any other server.
