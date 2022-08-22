@@ -1,8 +1,8 @@
 E-commerece website built by using HTML,CSS,JavaScript,Bootstrap,PHP,MySql.
 
-<img alt="sc1" src="sc/sc1"></img>
+<img alt="sc1" src="Flipmart/sc/sc1"></img>
 
-<img alt="sc2" src="sc/sc2"></img>
+<img alt="sc2" src="Flipmart/sc/sc2"></img>
 
 <h2>Homepage<h2>
 
