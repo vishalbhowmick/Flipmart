@@ -1,6 +1,6 @@
 E-commerece website built by using HTML,CSS,JavaScript,Bootstrap,PHP,MySql.
 
-<img alt="sc1" src="sc/sc1.jpg"></img>
+<img alt="sc1" src="sc/sc1.JPG"></img>
 
 <img alt="sc2" src="sc/sc2.jpg"></img>
 
